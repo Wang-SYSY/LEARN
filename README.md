@@ -1,5 +1,5 @@
 # LEARN
 
-hi humans：
+Hi humans：
 
 New to git!
